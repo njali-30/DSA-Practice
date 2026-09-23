@@ -1,8 +1,8 @@
 arr = [4, 9, 2, 7, 5]
-max = arr[0]
+maximum = arr[0]
 
 for i in arr:
-    if i > max:
-        max = i
+    if i > maximum:
+        maximum = i
 
-print("Maximum Element: ", max)
+print("Maximum Element: ", maximum)
